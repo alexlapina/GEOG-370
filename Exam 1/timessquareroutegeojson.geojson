@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "timessquareroutegeojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.981955327024806, 40.768050728561427 ], [ -73.986988023701002, 40.761019002633169 ], [ -73.981327242029082, 40.758639262645296 ], [ -73.981767640861207, 40.758039098703122 ] ] ] } }
+]
+}
